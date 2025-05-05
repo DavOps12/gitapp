@@ -1,2 +1,1 @@
-![Build Status](https://dev.azure.com/contoso/MyProject/_apis/build/status/MyProject-CI?branchName=master)
-https://dev.azure.com/dcorrain-gmail/AgileProject//_apis/build/status/DavOps12.gitapp?branchName=master)
+[![Build Status](https://dev.azure.com/dcorrain-gmail/AgileProject/_apis/build/status%2FDavOps12.gitapp?branchName=master)](https://dev.azure.com/dcorrain-gmail/AgileProject/_build/latest?definitionId=4&branchName=master)
